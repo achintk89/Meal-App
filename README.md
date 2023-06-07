@@ -9,7 +9,11 @@ Overall, this project demonstrates your skills in working with APIs, JavaScript,
 #Key Features
 
 Search Meal by name
+
 Auto sugestion on pressed keyword
+
 Save favrouite meals for future use
+
 Ability to restore saved meals even after reopening the browser
+
 Works seamlessly on both mobile and desktop devices
